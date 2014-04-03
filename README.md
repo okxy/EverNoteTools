@@ -1,0 +1,4 @@
+EverNoteTools
+=============
+
+deduplicate, replace name
